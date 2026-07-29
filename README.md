@@ -4,7 +4,7 @@
 ## Date:29-07-20206
 
 # AIM:
-To develop the ATM and Banking System using Star UML
+To develop the ATM and Banking System using Star UML/ draw.io
 
 # Problem Statement:
 1.Banks need to provide fast, secure, and self-service access to basic banking functionalities.
