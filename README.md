@@ -1,6 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
 # Reg No: 212223040233
 # Name: VARSHA SARATHI
+## Date:29-07-20206
 
 # AIM:
 To develop the ATM and Banking System using Star UML
@@ -126,3 +127,4 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
+
